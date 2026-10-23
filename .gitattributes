@@ -1,0 +1,7 @@
+# Configuration for git attributes
+*.html linguist-vendored
+*.ico binary
+*.rs linguist-detectable
+*.yaml linguist-detectable=false
+
+src/**/*.rs linguist-detectable
